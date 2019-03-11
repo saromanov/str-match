@@ -1,0 +1,23 @@
+{
+  "name": "str-match",
+  "version": "1.0.0",
+  "description": "String matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saromanov/str-match.git"
+  },
+  "keywords": [
+    "string",
+    "matching"
+  ],
+  "author": "Sergey Romanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saromanov/str-match/issues"
+  },
+  "homepage": "https://github.com/saromanov/str-match#readme"
+}
